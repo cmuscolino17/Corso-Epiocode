@@ -1,9 +1,9 @@
-#logo{
+#logo {
     width: 30%;
     margin-left: 33%;
 }
 
-#nav{
+#nav {
     text-align: center;
     background-color: #fefbf1;
     padding: 8px;
@@ -12,16 +12,16 @@
     height: 40px;
 }
 
-#nav p{
+#nav p {
     font-size: 20px;
     color: rgb(8 120 120);
     margin: 6px;
-    
+
 }
 
-#nav p span{
+#nav p span {
     font-weight: 900;
-} 
+}
 
 main {
     width: 50%;
@@ -29,58 +29,56 @@ main {
     margin: auto;
 }
 
-#titolo{
+#titolo {
     text-align: center;
     margin-top: 60px;
 }
 
-#focaccia{
+#focaccia {
     width: 100%;
     height: 600px;
     border-radius: 10px;
     object-fit: cover;
 }
 
-h5{
+h5 {
     color: rgba(0, 0, 0, 0.5);
     text-align: center;
     margin-top: 8px;
 }
 
-#featured{
+#featured {
     display: block;
     color: #b5460f;
 }
 
-#indirizzo{
+#indirizzo {
     color: #177;
 }
 
-.sezione{
+.sezione {
     border-left: 1px solid #ffd977;
     padding-left: 20px;
     margin-top: 20px;
 }
 
-div h2{
+div h2 {
     border-bottom: 1px solid rgb(197, 243, 243);
     padding-bottom: 20px;
     margin-bottom: 30px;
     font-weight: 300;
 }
 
-.makefocaccia{
+.makefocaccia {
     font-weight: 600;
 }
 
-footer{
+footer {
     margin: auto;
     text-align: left;
     width: 50%;
 }
 
-footer a{
+footer a {
     color: #177
- }
-
-
+}
