@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #EAEDED;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #222F3E;
+    padding-top: 15px;
+}
+
+#logo{
+    width: 150px;
+    padding-left: 25px;
+}
+
+nav{
+    background-color: #354758;
+    margin-top: 15px;
+    padding: 10px 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 0 10px;
+}
+
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+#gift{
+    background-color: #F56600;
+    text-align: center;
+    margin: 25px 0;
+    padding: 5px;
+}
+
+#gift p{
+    color: white;
+}
+
+#holiday{
+    text-align: center;
+    color: white;
+    background-image: url(./img/bg-image.png);
+    padding: 20px;
+}
+
+#holiday h2{
+    margin-bottom: 20px;
+}
+
+#gift-container {
+    margin-top: 30px;
+    background-color: white;
+}
+
+.title{
+    font-size: 15px;
+}
+
+.sub-title{
+    color: #047386;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.titol-container{
+    text-align: left;
+    padding: 8px 8px 0px 12px;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+.img{
+    width: 300px;
+    height: 380px;
+    margin: 18px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.second-container{
+    text-align: center;
+    margin-top: 30px
+}
+
+.second-img{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.top{
+    background-color: #354758;
+    padding: 8px;
+    color: white;
+    font-weight: 600;
+}
+
+a.no-visited:visited{
+    color: inherit;
+}
+
+.container-logo-finale{
+    background-color: #222F3E;
+    margin: 0 auto;
+    position: relative;
+}
+
+#logo-finale{
+    width: 250px;
+    padding: 50px;
+}
